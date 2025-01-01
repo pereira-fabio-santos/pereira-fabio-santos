@@ -1,5 +1,6 @@
-Sou Fabio Pereira dos Santos, programador focado em React Native e C#
-Gosto de aprender, por isso estou sempre vendo as novidades que surgem na linguagem C# e fazer projetos que de alguma maneira me ajude a aprender
+Sou Fabio Pereira dos Santos, programador focado em React Native e C#.  
+
+Gosto de aprender, por isso estou sempre vendo as novidades que surgem na linguagem C# e fazendo projetos que de alguma maneira me ajude a aprender
 
 Desenvolvi dois projetos:
 - [Snippets C#](https://marketplace.visualstudio.com/items?itemName=PereiraFabioSantos.snippetscsharp), que são snippets de C# para Visual Studio Code e
